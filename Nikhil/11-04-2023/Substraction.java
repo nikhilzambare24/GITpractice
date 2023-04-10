@@ -4,8 +4,8 @@ public class Substraction {
         int i = 5;
         int j = 20;
 
-        int result = i - j;
+        int res = i - j;
 
-        System.out.println(result);
+        System.out.println(res);
     }
 }
