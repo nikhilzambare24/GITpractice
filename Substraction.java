@@ -6,5 +6,6 @@ public class Substraction {
         int result = i - j;
 
         System.out.println(result);
+        System.out.println("in nikhil");
     }
 }
