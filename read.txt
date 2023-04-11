@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-i am nikhil
-=======
-hello i am nikhil zambare
->>>>>>> gitpractice
